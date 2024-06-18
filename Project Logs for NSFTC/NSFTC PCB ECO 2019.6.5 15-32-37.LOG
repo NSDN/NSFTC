@@ -1,0 +1,12 @@
+Added Component: Designator=VR1(SOT-23-3L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_5896.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C5446"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=VR1-1
+Added Pin To Net: NetName=VCC Pin=VR1-2
+Added Pin To Net: NetName=VHI Pin=VR1-3
+Added Member To Class: ClassName=NSFTC Member=Component VR1 XC6206P332MR
